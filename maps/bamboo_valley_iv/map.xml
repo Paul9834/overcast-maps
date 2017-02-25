@@ -84,7 +84,6 @@
 </spawns>
 <kits>
     <kit id="spawn">
-        <gamemode>adventure</gamemode>
         <item slot="0" unbreakable="true">stone sword</item>
         <item slot="1" unbreakable="true">bow</item>
         <item slot="7" amount="1">golden apple</item>
