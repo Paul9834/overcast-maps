@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <map proto="1.3.0">
 <name>Mini Drought</name>
-<version>1.1.0</version>
+<version>1.2.0</version>
 <objective>Take the wool from the enemy wool rooms and place it on your victory monument while defending your own wool.</objective>
 <authors>
-    <author>Reshif</author>
+    <author>459fd919-0d58-401a-9601-6cab1eb721ab</author>
 </authors>
 <contributors>
-    <contributor contribution="Trend setter">Nadastorm</contributor>
+    <contributor contribution="Trend setter">00c06fa6-1c53-4634-931a-929efd8a52df</contributor>
 </contributors>
 <teams>
-    <team color="blue" max="5" max-overfill="7">Blue Team</team>
-    <team color="dark red" max="5" max-overfill="7">Red Team</team>
+    <team color="blue" max="8" max-overfill="12">Blue Team</team>
+    <team color="dark red" max="8" max-overfill="12">Red Team</team>
 </teams>
 <kits>
     <kit name="spawn">
@@ -124,7 +124,7 @@
         </negative>
     </apply>
      <apply block-break="allow-gold" block-place="deny-all" message="You may only break gold blocks in the base">
-        <rectangle min="-17,-284" max="17,-254"/>
+        <rectangle min="-16.5,-283.5" max="9.5,-257.5"/>
         <rectangle min="-86,-353" max="-56,-323"/>
      </apply>
 </regions>
