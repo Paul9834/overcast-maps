@@ -4,10 +4,10 @@
 <version>1.2.0</version>
 <objective>Take the wool from the enemy wool rooms and place it on your victory monument while defending your own wool.</objective>
 <authors>
-    <author>459fd919-0d58-401a-9601-6cab1eb721ab</author>
+    <author uuid="459fd919-0d58-401a-9601-6cab1eb721ab"/>
 </authors>
 <contributors>
-    <contributor contribution="Trend setter">00c06fa6-1c53-4634-931a-929efd8a52df</contributor>
+    <contributor uuid="00c06fa6-1c53-4634-931a-929efd8a52df" contribution="Trend setter"/>
 </contributors>
 <teams>
     <team color="blue" max="8" max-overfill="12">Blue Team</team>
